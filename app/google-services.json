@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "216569947825",
-    "firebase_url": "https://loja-games.firebaseio.com",
-    "project_id": "loja-games",
-    "storage_bucket": "loja-games.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:216569947825:android:ad573e7ff66c011b",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.soliwork.gamestation"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "216569947825-t5iivo0h0e04h0g8npu72fsa4ig4qa24.apps.googleusercontent.com",
+          "client_id": "apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.soliwork.gamestation",
-            "certificate_hash": "7898208b2c0eac21c662a062faab83c8c6b57fc1"
+            "package_name": "",
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "216569947825-ainjfsuda3p0ua01jcf5iek63rshlu5b.apps.googleusercontent.com",
+          "client_id": "apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCzT67IkYIoxA_m1ILeYCG8b4IFcY-v2mQ"
+          "current_key": "your key"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "216569947825-ainjfsuda3p0ua01jcf5iek63rshlu5b.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
